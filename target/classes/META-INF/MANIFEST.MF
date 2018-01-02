@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rest-web-services
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenny
+Implementation-Vendor-Id: com.rest.webservices
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/rest-web-services/
+Created-By: Maven Integration for Eclipse
+
